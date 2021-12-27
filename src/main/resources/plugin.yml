@@ -1,0 +1,10 @@
+name: OneMoreLife
+version: '${project.version}'
+main: io.github.ergunmalay.onemorelife.OneMoreLife
+api-version: 1.18
+author: Lownzy
+
+commands:
+  resetOneMoreLife:
+    description: Reset everyones health to the deafult value
+    usage: /resetOneMoreLife
